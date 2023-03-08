@@ -12,3 +12,21 @@
 
 ## About me 
 I am novice Javascript developer. I am eager to be challenged in order to grow and further improve my skills. I am interested in modern tendencies of programming and aim on applying this knowledge in practice. I am scrupulously taking my duties and trying to make all tasks in time. Also I am responsive worker and always glad to help my colleagues.
+
+## Skills
+* HTML
+* CSS
+* Js
+* React
+
+## Code example
+  Task: Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).  
+  Solution: 
+  ```
+   function solution(str, ending){
+      return str.endsWith(ending);
+    }
+  ```
+
+## Experience
+  https://LeonidMarinov.github.io/rsschool-cv/cv

@@ -30,3 +30,11 @@ I am novice Javascript developer. I am eager to be challenged in order to grow a
 
 ## Experience
   https://LeonidMarinov.github.io/rsschool-cv/cv
+
+## Education
+* Lyceum №2 of Tula, Russia
+
+## Languages
+* Russian: native
+* English: upper intermediate
+* French: beginner
